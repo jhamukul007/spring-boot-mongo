@@ -5,7 +5,7 @@
 3. User should able to comment on post.
 4. User should able to comment on comment.
 
-|- post
+|- post <br>
   |- comment1
      |- reply_1
      |- reply_2
